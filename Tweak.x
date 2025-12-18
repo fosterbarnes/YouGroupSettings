@@ -52,6 +52,7 @@ NSBundle *TweakBundle() {
             @(517), // DontEatMyContent
             @(1080), // Return YouTube Dislike
             @(YTUHD),
+            @(201), // YTweaks
             @(YouChooseQuality),
             @(200), // YouPiP
             @(YouSlider),
